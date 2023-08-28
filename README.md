@@ -11,7 +11,7 @@ The source code for the extension can be found in the GitHub repository: ChatGPT
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ChatGPTExtension.git
+git clone https://github.com/ArunKumar023/ChatGPTExtension.git
 cd ChatGPTExtension
 
 2. Start the Mock API:
