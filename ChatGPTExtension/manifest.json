@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "ChatGPT Extension",
+    "version": "1.0",
+    "description": "A simple extension to interact with ChatGPT API",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Create a basic Chrome extension that integrates with a mock ChatGPT API"
+    }
+  }
+  
