@@ -1,9 +1,9 @@
 const express = require("express");
-const cors = require("cors"); // Import the cors package
+const cors = require("cors"); 
 const app = express();
 const port = 3000;
 
-app.use(cors()); // Use the cors middleware
+app.use(cors()); 
 
 app.use(express.json());
 
